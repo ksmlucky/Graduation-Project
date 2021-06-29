@@ -11,3 +11,5 @@ Bioinformatics를 활용한 COVID-19 염기서열 데이터 분석 및 응용
 원하는 fasta 파일들의 multiple sequence alignment가 완료된 후 그 결과가 covid.aln파일에 저장되어 생성된다.
 
 >다른 염기서열 데이터를 alignment하고 싶은 경우 ncbi에서 관리하는 염기서열 데이터의 네임 코드를 직접 입력하면 된다.
+
+Link: [분석 결과 + 웹페이지](https://github.com/gudals7856/graduationProject)
